@@ -22,6 +22,7 @@ Each pixel is assigned to the class (clean or contaminated) with the maximum pro
 Requirements: Install the required dependencies:
 
 pip install -r requirements.txt
+
 Run the model: Follow the instructions in the provided notebook or scripts to preprocess the data, train the Gaussian models, and perform testing on new images.
 
 Features:
