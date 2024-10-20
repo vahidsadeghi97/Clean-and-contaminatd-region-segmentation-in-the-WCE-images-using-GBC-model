@@ -26,6 +26,7 @@ pip install -r requirements.txt
 Run the model: Follow the instructions in the provided notebook or scripts to preprocess the data, train the Gaussian models, and perform testing on new images.
 
 Features:
+
 LAB color space transformation for better distinction between clean and contaminated regions.
 K-means clustering to reduce the dataset and select representative images for training.
 Gaussian distribution-based segmentation for pixel classification.
