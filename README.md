@@ -30,7 +30,7 @@ Features:
 LAB color space transformation for better distinction between clean and contaminated regions.
 K-means clustering to reduce the dataset and select representative images for training.
 Gaussian distribution-based segmentation for pixel classification.
-Applications:
+
 This segmentation approach can aid in:
 
 Improving diagnostic accuracy in capsule endoscopy by clearly identifying clean and contaminated areas.
