@@ -1,0 +1,7 @@
+matplotlib==3.8.0
+numpy==1.25.2
+sklearn==0.24.2
+opencv-python==4.8.0
+glob
+os
+random
