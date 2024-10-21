@@ -17,6 +17,18 @@ These distributions represent the clean and contaminated regions, respectively.
 5. Testing Mode:
 During testing, each pixel in a test image is evaluated by calculating its likelihood under the two Gaussian distributions (clean and contaminated).
 Each pixel is assigned to the class (clean or contaminated) with the maximum probability.
+This repository contains the code and one of the datasets used in our study, submitted to the PLOS ONE journal.
+
+Datasets
+Due to GitHub's storage limitations, we have only uploaded the CECleanliness database here. The remaining datasets can be accessed through Google Drive.
+
+The CECleanliness database available in this repository. The other datasets used in our study can be accessed via the following Google Drive link:
+https://drive.google.com/file/d/1Iog9hTpZWx4hVlg_a75j6_2pJtzUoXEU/view?usp=sharing
+
+Please ensure you download all necessary datasets for full reproducibility.
+
+Code
+The code used for data analysis and experiments is provided in this repository under the code/ folder.
 
 
 Requirements: Install the required dependencies:
