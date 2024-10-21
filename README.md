@@ -47,5 +47,6 @@ This segmentation approach can aid in:
 
 Improving diagnostic accuracy in capsule endoscopy by clearly identifying clean and contaminated areas.
 Enhancing image preprocessing for further analysis.
+
 License:
 This project is licensed under the MIT License. See the LICENSE file for details.
